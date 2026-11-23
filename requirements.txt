@@ -1,0 +1,3 @@
+# Only one external package is needed. Everything else (csv, json, re, os,
+# datetime, collections, unittest) is part of the Python standard library.
+streamlit>=1.50

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Backups created automatically when a data file is corrupted
+data/*_corrupt_*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
